@@ -8,7 +8,7 @@ class ChuongGa extends Chuong {
     private string $raisingDateChick;
     private string $harvestDateChick;
 
-    public function __contructs(
+    public function __construct(
         string $nameChick,
         string $typeChick,
         float $sizeChick,

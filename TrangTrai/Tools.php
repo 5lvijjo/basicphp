@@ -9,7 +9,7 @@ class Tools {
     private string $brandTools;
     private int $countTools;
 
-    public function __contructs(
+    public function __construct(
         string $nameTools,
         string $typeTools,
         float $sizeTools,

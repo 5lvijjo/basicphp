@@ -6,7 +6,7 @@ class Chuong extends Channuoi {
     private string $location;
     private float $size;
 
-    public function __contructs(
+    public function __construct(
         string $name,
         string $type,
         string $location,

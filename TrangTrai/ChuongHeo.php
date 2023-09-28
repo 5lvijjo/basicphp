@@ -8,7 +8,7 @@ class ChuongHeo extends Chuong {
     private string $raisingDatePig;
     private string $harvestDatePig;
 
-    public function __contructs(
+    public function __construct(
         string $namePig,
         string $typePig,
         float $sizePig,

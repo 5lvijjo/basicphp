@@ -9,7 +9,7 @@ class Car {
     private string $brandCar;
     private int $countCar;
 
-    public function __contructs(
+    public function __construct(
         string $nameCar,
         string $typeCar,
         float $sizeCar,
